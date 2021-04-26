@@ -4,5 +4,5 @@
 ### Various
 
 * [Xcode tips & tricks](Documents/Various/Xcode.md)
-* [Markdown cheatsheet]((Documents/Various/Markdown.md))
+* [Markdown cheatsheet](Documents/Various/Markdown.md)
 
