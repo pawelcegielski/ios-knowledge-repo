@@ -1,7 +1,7 @@
 # Xcode tips & tricks
 
 0. #### Useful shortcuts
-* **cmd + \** - set breakpoint on current line (doesn't work with 1Password installed)
+* **`cmd + \`** - set breakpoint on current line (doesn't work with 1Password installed)
 * **ctrl + i** - reindent code
 * **ctrl + alt + cmd + G** - re-run last test
 * **cmd + shift + J** - shows current file in Project Navigator
