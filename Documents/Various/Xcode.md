@@ -1,10 +1,27 @@
 # Xcode tips & tricks
 
 0. #### Useful shortcuts
-* **`cmd + \`** - set breakpoint on current line (doesn't work with 1Password installed)
-* **`ctrl + i`** - reindent code
-* **`ctrl + alt + cmd + G`** - re-run last test
-* **`cmd + shift + J`** - shows current file in Project Navigator
+* `cmd + \` - set breakpoint on current line (doesn't work with 1Password installed)
+* `ctrl + i` - reindent code
+* `ctrl + option + cmd + G` - re-run last test
+* `cmd + shift + J` - shows current file in Project Navigator
+* `cmd + [` or `cmd + ]` - reindent selected code left/right
+* `cmd + option + [` or `cmd + option + ]` - move selected code down/up
+* `cmd + R` - run
+* `cmd + B` - build
+* `cmd + /` - comment code
+
+Navigating:
+* `cmd + 0` - left navigator 
+* `cmd + 1,2,3,4` - switch between panels in left navigator
+* `cmd + option + 0` - right navigator
+* `cmd + option + 1,2,3,4` - switch between panels in right navigator
+* `cmd + shift + y` - show/hide debugger
+* `cmd + option + enter ` - open assistant editor
+
+
+--------
+
 
 1. #### Generating class initializers
 
@@ -86,9 +103,18 @@ Search                     |  Search Expanded
 
 * `Product -> Test -> Info -> Options -> Randomize execution order`
 
-12. Show source code changes
+12. #### Show source code changes
 * Clicking on the blue line on the left side of line number shows git changes
 <img src="images/Xcode_12_1.png" width="80%">
+
+13. #### Mulit-position editing.
+
+* Select the first location then hold `Shift + Control` then select the other locations to edit.
+14. #### Double click in the latest tab to keep it open permanently
+15. Debugger
+* Special breakpoints ex. Exception breakpoints
+* `po class`
+* `p class` <-- prints object in nice, friendly and readable way
 
 
 
