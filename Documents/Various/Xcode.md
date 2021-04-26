@@ -36,7 +36,7 @@ class TestClass {
 
 * Instead of fixing errors one by one we can click:
 
-* **Editor -> Fix All Issues**
+* **`Editor -> Fix All Issues`**
  
 3. #### Selecting blocks of code
 * Double click on curly bracket to select whole code block
@@ -45,13 +45,13 @@ class TestClass {
 4. #### Reindent code
 * Select code and press **`ctrl + i`** 
 * To automatically reindent code while pasting into project set:
-* **Settings -> Text Editing -> Indentation -> select 'Re-Indent on paste'**
+* **`Settings -> Text Editing -> Indentation ->` select `Re-Indent on paste`**
 
 5. #### Search whole project tips
 
 * `CMD + Shift + F`
 * `Find -> Text -> Containing` - we can click on every part to expand search criteria
-* We can click delete on selected search result to remove search from search results
+* We can click delete on selected search result to remove it from search results
 
 Search                     |  Search Expanded
 :-------------------------:|:-------------------------:
