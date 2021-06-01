@@ -2,6 +2,8 @@
 
 ### UIKit
 * [UITableView](Documents/UIKit/UITableView.md)
+* [UIView](Documents/UIKit/UIView.md)
+* [Tips & tricks](Documents/UIKit/UIKit_tipsTricks.md)
 
 ### Various
 
