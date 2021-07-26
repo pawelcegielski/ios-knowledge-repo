@@ -4,7 +4,7 @@
 
 How to use multiple view models to populate table view with custom cells. 
 
-It enables 
+It enables adding multiple rows of different data and table view will automatically generate all cells based on view model type.
 
 ```swift
 protocol AnimalViewModel {

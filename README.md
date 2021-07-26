@@ -6,7 +6,7 @@
 * [Tips & tricks](Documents/UIKit/UIKit_tipsTricks.md)
 
 ### Architecture
-* [UITableView multiple view models](UITableView_ViewModels.md)
+* [UITableView multiple view models](Documents/Architecture/UITableView_ViewModels.md)
 
 
 ### Various
@@ -16,5 +16,3 @@
 * [Markdown cheatsheet](Documents/Various/Markdown.md)
 * [Tips](Documents/Various/Tips.md)
 
-
-[title](Documents/Architecture/UITableView_ViewModels.md)
