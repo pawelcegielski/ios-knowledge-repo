@@ -47,3 +47,4 @@ Additionaly we can cache cell sizes:
           realtimeCell.configure(viewModel: viewModel)
         }
 ```
+
